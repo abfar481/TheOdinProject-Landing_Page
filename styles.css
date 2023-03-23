@@ -40,3 +40,47 @@ ul {
     padding: 0;
     gap: 15px;
 }
+
+/*  Hero  */
+.hero {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    gap: 50px;
+}
+
+.hero-text {
+    font-size: 48px;
+    font-weight: bolder;
+    padding-bottom: 50px;
+    padding-right: 100px;
+}
+
+.text {
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-bottom: 50px;
+    padding-right: 100px;
+}
+
+.sign-up {
+    background-color: #3882F6;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 8px 19px;
+    border-radius: 8px;
+    border: 1px solid #3882F6;
+}
+
+.placeholder {
+    background-color: grey;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
